@@ -5,3 +5,8 @@ Heap data structure
 ```bash
 pyton cable_connector.py
 ```
+
+## Task 2 (Merge list of sorted lists into one list)
+```bash
+python merge_k_lists.py
+```
